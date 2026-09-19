@@ -84,7 +84,7 @@
         #verdict-box { margin-top: 20px; padding: 20px; border-radius: 15px; display: none; }
     </style>
 </head>
-<body>
+<body>    
 
 <div class="container">
     
